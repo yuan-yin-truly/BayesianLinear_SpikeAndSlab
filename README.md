@@ -6,4 +6,4 @@ The regulatory relationship between transcription factors (TF) and target gene (
 
 If we treat each TF and TG as a random variable, we may summarize the data we have as follows: an unlabeled collection of instantiations of random variables from multiple unknown data generating processes, although we do know all the TFs whose (unknown) subset participated in each data generating process. We present a statistical model to tackle this problem: find clusters in RNASeq data, select true regulators from TFs in ChIPSeq data for each cluster using a spike- and-slab prior strategy, and run a linear regression of TG vs. true regulators in each cluster. These subtasks are built in a single model, and we develop a Metropolis-within-Gibbs sampling strategy for inference on the parameters of the model.
 
-*For the full report, please refer to __report.pdf__ at repo [BayesianLinear_SpikeAndSlab](https://github.com/yuan-yin-truly/BayesianLinear_SpikeAndSlab).*
+*For the full report, please refer to __report.pdf__ at repo [BayesianLinear_SpikeAndSlab](https://github.com/yuan-yin-truly/BayesianLinear_SpikeAndSlab/blob/main/report.pdf).*
