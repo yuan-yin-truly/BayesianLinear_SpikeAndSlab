@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/342649594.svg)](https://zenodo.org/doi/10.5281/zenodo.10648564)
 # A Bayesian Linear Model of Multiple High-throughput Sequencing Data under Unknown Environmental Conditions
 
 ### Abstract
